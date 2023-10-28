@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Faculty Of Arts",
+		"desc": "The faculty of Arts offers programs that span visual arts, performing arts, literature and more, "
+	},
+	{
+		"title": "Faculty Of Science",
+		"desc": "The faculty of Science covers fields such as biology, chemistry, physics, ad environmental science"
+	},
+	{
+		"title": "Faculty of Business and Economics",
+		"desc": "The faculty of business and economics prepares you for a dynamic world of commerce"
+	},
+	{
+		"title": "Faculty Of Technology",
+		"desc": "The faculty of technology offers programs in areas like electrical engineering and more."
+	},
+	{
+		"title": "Faculty Of Health Science",
+		"desc": "The faculty of Health Science offers programs in nursing, medical technology and other health fields"
+	},
+	{
+		"title": "Faculty Of Agriculture",
+		"desc": "The faculty of Agriculture prepares you for the world of agriculture and also the economic in agriculture"
+	}
+]
